@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Black Eyeliner",
+    "price": 399,
+    "category": "cosmetics",
+    "image": "https://png.pngtree.com/png-vector/20240717/ourmid/pngtree-3d-mascara-eyeliner-and-brush-stroke-vector-beauty-cosmetic-png-image_13137734.png"
+  },
+  {
+    "name": "Lipstick",
+    "price": 299,
+    "category": "cosmetics",
+    "image": "https://png.pngtree.com/png-vector/20250101/ourlarge/pngtree-red-lipstick-with-beauty-product-png-image_15018820.png"
+  },
+  {
+    "name": "T-shirt",
+    "price": 499,
+    "category": "clothing",
+    "image": "https://w7.pngwing.com/pngs/934/987/png-transparent-t-shirt-shirt-isolated-product-image-transparent-image-clipping-path-remove-the-background-cloth-fashion-background-removed-image-isolated.png"
+  }
+  
+]
